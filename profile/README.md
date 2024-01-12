@@ -2,6 +2,7 @@
 ![maven](https://img.shields.io/badge/Ktor-3.0.0-a.svg)
 ![maven](https://img.shields.io/badge/go--cqhttp-1.2.0-red)
 ![maven](https://img.shields.io/badge/qq-bot-red)
+
 ![maven](https://img.shields.io/badge/falowp--bot-开源-yellow)
 ![maven](https://img.shields.io/badge/falowp--bot-无公害-yellow)
 ![maven](https://img.shields.io/badge/falowp--bot-非转基因-yellow)
