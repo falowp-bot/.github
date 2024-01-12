@@ -11,4 +11,6 @@
 
 > 此项目基于qqBot和go-cqhttp开发的机器人框架
 
+> [查看文档](https://falowp.blr19c.com)
+
 ### 祝你在这里玩的开心
